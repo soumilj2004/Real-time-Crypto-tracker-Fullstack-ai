@@ -28,7 +28,11 @@ A professional-grade web dashboard that tracks real-time cryptocurrency prices a
   Use checkboxes and a "Track" button to manage which assets appear on the dashboard.
 
 ---
+### Images
+<img width="779" height="776" alt="image" src="https://github.com/user-attachments/assets/4d97d95e-6ae9-4cad-a352-c4c766ab0f67" />
+<img width="526" height="851" alt="image" src="https://github.com/user-attachments/assets/8d1f9548-1bc5-4cba-90d6-37ef11508ef3" />
 
+---
 ## Technologies Used
 
 ### Frontend
@@ -43,9 +47,9 @@ A professional-grade web dashboard that tracks real-time cryptocurrency prices a
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
 
-\`\`\`
+```text
 price-tracker/
 │
 ├── backend/
@@ -61,7 +65,7 @@ price-tracker/
     ├── style.css
     ├── script.js
     └── chart.js
-\`\`\`
+```
 
 ---
 
